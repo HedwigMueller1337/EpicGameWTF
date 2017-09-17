@@ -17,7 +17,7 @@ if __name__ == '__main__':
     # check resources
     print(exampleTown.resources)
     # add resources 
-    exampleTown.addResources({'wood':20, 'tool':5, 'rope':5, 'clay':5})
+    exampleTown.addResources({'wood':15, 'tool':5, 'rope':5, 'clay':5})
     print(exampleTown.resources)
     # warning
     exampleTown.addResources({'wood':-20})

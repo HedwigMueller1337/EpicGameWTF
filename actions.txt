@@ -1,0 +1,34 @@
+# Gather_scrap
+Scrap_metal 10
+Planks 10
+Bricks 10
+Canvas 8
+Failure 10
+Scrap_component 10
+Furniture 6
+Item 6
+Accident 5
+Encounter 3
+
+# Scavange
+Scrap_omponent 8
+Item 40
+Food 12
+Encounter 16
+Accident 6
+
+# Explore
+Encounter 32
+Item 20
+Accident 6
+
+
+
+
+
+
+
+
+
+
+

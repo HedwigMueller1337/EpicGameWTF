@@ -1,0 +1,71 @@
+# items
+Medicine 6
+Weapon 4
+Clothing 7
+Furniture 6
+Tools 10
+Book 6
+Electronic_devices 3
+Electronic_components 6
+Data 4
+
+# Weapon
+Melee_weapon 8
+Gun 3
+Explosive 1
+Primitive 5
+
+# Melee_weapon
+Club 4
+Knife 5
+Machete 4
+
+# Gun
+Revolver 30
+Pistol 40
+Rifle 40
+SMG 8
+Sniper_rifle 6
+Shotgun 8
+
+# Explosives
+Grenade 5
+Mine 5
+Plastic_explosive 4
+
+# Primitive
+Bow 3
+Sling 3
+Spear 3
+
+# Clothing
+Rags 10
+Shirt 5
+Skirt 5
+Boots 5
+Trousers 5
+Hat 5
+
+# Tools
+Axe 5
+Hammer 5
+Saw 5
+Screw_driver 5
+Soldering_iron 5
+Knife 5
+
+# Electronic_devices
+Radio 4
+Power_tool 3
+Computer_parts 3
+Cellphone 4
+Engine 3
+Generator 2
+Flashlight 2
+Amplifier 4
+
+
+
+
+
+
